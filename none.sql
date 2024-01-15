@@ -1,2 +1,2 @@
-SELECT product_name FROM SINGLE
+SELECT DISTINCT product_color FROM SINGLE
 
