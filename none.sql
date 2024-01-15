@@ -1,2 +1,3 @@
-SELECT DISTINCT product_color FROM SINGLE
+SELECT * FROM SINGLE
+WHERE product_color = 'Red' AND product_type = 'Fruit';
 
